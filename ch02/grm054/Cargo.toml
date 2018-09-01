@@ -1,0 +1,6 @@
+[package]
+name = "grm054"
+version = "0.1.0"
+authors = ["t.masuda <masuda@moonmile.net>"]
+
+[dependencies]
